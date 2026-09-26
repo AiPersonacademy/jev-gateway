@@ -12,13 +12,11 @@
 **Short-circuit deterministic agent decisions before they ever touch 200B+ autoregressive frontier models.**  
 Eliminate the 2–4 second tool-call freeze in Cursor and Claude Code.
 
-[Website](https://jevproxy.com) • [Documentation](https://jevproxy.com/docs) • [60s Video Explainer](https://jevproxy.com/#explainer) • [Benchmarks](https://jevproxy.com/blog/laya-vs-jev-ai-decision-model-benchmark-comparison) • [Architecture Paper](https://jevproxy.com/blog/why-cursor-freezes-tool-calls-system-one-jev-gateway)
+[Website](https://jevproxy.com) • [Documentation](https://jevproxy.com/docs) • [Benchmarks](https://jevproxy.com/blog/laya-vs-jev-ai-decision-model-benchmark-comparison) • [Architecture Deep Dive](https://jevproxy.com/blog/why-cursor-freezes-tool-calls-system-one-jev-gateway)
 
 </div>
 
 ---
-
-> 🎬 **Watch the 60-second animated architectural explainer:** [Why Cursor Freezes on Tool Calls (And How to Fix It with a JEV Gateway)](https://jevproxy.com/#explainer)
 
 ## 🔍 What is a JEV Gateway?
 
