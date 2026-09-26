@@ -1,0 +1,42 @@
+{
+  "name": "jev-gateway",
+  "version": "1.0.0",
+  "description": "Official JEV Gateway & Reverse Proxy for Cursor, Claude Code, and autonomous AI agents. Sub-25ms deterministic tool execution layer.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "jev-gateway": "bin/jev-gateway.js",
+    "jevproxy": "bin/jev-gateway.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node bin/jev-gateway.js start",
+    "dev": "ts-node src/cli.ts",
+    "bench": "node bin/jev-gateway.js bench",
+    "mcp": "node bin/jev-gateway.js mcp"
+  },
+  "keywords": [
+    "jev",
+    "jev-gateway",
+    "jevproxy",
+    "ai-gateway",
+    "cursor",
+    "claude-code",
+    "reverse-proxy",
+    "typesafe",
+    "system-one",
+    "llm-router",
+    "mcp-server",
+    "ai-agents"
+  ],
+  "author": "Abderrahmane El Kassimi (https://www.linkedin.com/in/abderrahmane-el-kassimi-184182237/)",
+  "license": "MIT",
+  "homepage": "https://jevproxy.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AiPersonacademy/jev-gateway.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AiPersonacademy/jev-gateway/issues"
+  }
+}
