@@ -8,15 +8,18 @@
 [![Latency](https://img.shields.io/badge/Latency-18.4ms-emerald.svg)](https://jevproxy.com)
 [![Architecture](https://img.shields.io/badge/Architecture-RLCD%20Cross--Attention-purple.svg)](https://jevproxy.com/blog/laya-vs-jev-ai-decision-model-benchmark-comparison)
 [![Platform](https://img.shields.io/badge/Platform-JevProxy.com-00DC82.svg)](https://jevproxy.com)
+[![YouTube Explainer](https://img.shields.io/badge/YouTube-Watch%20Explainer%20(58s)-red?logo=youtube)](https://youtu.be/nQS9PfzlnZs)
 
 **Short-circuit deterministic agent decisions before they ever touch 200B+ autoregressive frontier models.**  
 Eliminate the 2–4 second tool-call freeze in Cursor and Claude Code.
 
-[Website](https://jevproxy.com) • [Documentation](https://jevproxy.com/docs) • [Benchmarks](https://jevproxy.com/blog/laya-vs-jev-ai-decision-model-benchmark-comparison) • [Architecture Deep Dive](https://jevproxy.com/blog/why-cursor-freezes-tool-calls-system-one-jev-gateway)
+[Website](https://jevproxy.com) • [YouTube Video](https://youtu.be/nQS9PfzlnZs) • [Documentation](https://jevproxy.com/docs) • [Benchmarks](https://jevproxy.com/blog/laya-vs-jev-ai-decision-model-benchmark-comparison) • [Architecture Deep Dive](https://jevproxy.com/blog/why-cursor-freezes-tool-calls-system-one-jev-gateway)
 
 </div>
 
 ---
+
+> 📺 **Watch the 60-second video breakdown on YouTube:** [Why Cursor Freezes on Tool Calls (And How to Fix It with a JEV Gateway)](https://youtu.be/nQS9PfzlnZs)
 
 ## 🔍 What is a JEV Gateway?
 
